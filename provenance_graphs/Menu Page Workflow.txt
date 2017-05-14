@@ -1,0 +1,45 @@
+# @begin MenuItem_dataset @ desc From NYPL Curating Menus Project
+# @in id 
+# @in menu_id
+# @in page_number
+# @in image_id
+# @in full_height
+# @in full_width
+# @in uuid
+
+# @out Cleaned_dataset
+
+# @begin Manual_Edit @desc Apply to all identical cells
+# @in page_number 
+
+
+# @out Cleaned_dataset
+# @end Text_transform
+
+# @begin Custom_Transform @desc To Lowercase
+# @in uuid
+
+# @out Cleaned_dataset
+# @end Split
+
+# @begin Common_Transforms @desc Trim leading and trailing spaces
+# @in id 
+# @in menu_id
+# @in page_number
+# @in image_id
+# @in full_height
+# @in full_width
+# @in uuid
+
+
+# @out Cleaned_dataset
+# @end Text_transform_1
+
+# @begin Text_Edit  @desc Manually Edit
+# @in page_number
+
+# @out Cleaned_dataset
+# @end Text_transform_2
+
+
+# @end MenuItem
