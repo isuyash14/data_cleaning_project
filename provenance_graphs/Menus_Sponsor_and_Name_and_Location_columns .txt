@@ -1,0 +1,51 @@
+Menus_Sponsor_and_Name_and_Location_columns 
+
+# @begin Menus_Sponsor_and_Name_and_Location_columns @desc  YW with a NYPL Menu datasets
+# @in name
+# @in sponsor
+# @in location
+# @out Clean_name
+# @out Clean_sponsor
+# @out Clean_location
+
+# @begin Trim,Collapse_Whitespace,Uppercase
+# @in name
+# @in sponsor
+# @in location
+# @out name_1
+# @out sponsor_1
+# @out location_1
+# @end Trim,collapse_Whitespace,Uppercase
+
+# @begin Updated_location_values_to_names_where_names_null_vice_versa
+# @in name_1
+# @in sponsor_1
+# @in location_1
+# @out name_2
+# @out sponsor_2
+# @out location_2
+
+# @end Updated_location_values_to_names_from_null
+
+
+
+# @begin Clustering_with_n_fingerprint_followed_by_n-grams
+# @in name_2
+# @in sponsor_2
+# @in location_2
+# @out name_3
+# @out sponsor_3
+# @out location_3
+# @end Clustering
+
+# @begin Updated_sentinal_values_to_null
+# @in name_3
+# @in sponsor_3
+# @in location_3
+# @out Clean_name
+# @out Clean_sponsor
+# @out Clean_location
+
+# @end Updated_?_to_null
+
+# @end Menus_Sponsor_and_Name_columns

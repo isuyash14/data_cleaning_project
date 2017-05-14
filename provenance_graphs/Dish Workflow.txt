@@ -1,0 +1,36 @@
+Dish workflow
+# @begin Dish_Dataset @desc From NYPL
+
+# @in id 
+# @in name
+# @in desciption
+# @in menus_appeared
+# @in times_appeared
+# @in first_appeared
+# @in last_appeared
+# @in lowest_price
+# @in highest_price
+# @out Cleaned_dataset
+
+#@begin Text_transform @desc converted to Numbers
+
+# @end Text_transform
+
+# @begin Text_transformation 
+# @in menus_appeared
+
+# @out Cleaned_dataset
+# @end Text_transform_1
+
+# @begin Text_transform@desc converted to numeric
+# @in id 
+# @in times_appeared
+# @in first_appeared
+# @in last_appeared
+# @in lowest_price
+# @in highest_price
+# @out Cleaned_dataset
+# @end Text_transform_2
+# @end MenuItem
+
+
