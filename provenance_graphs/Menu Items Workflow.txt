@@ -1,40 +1,45 @@
 # @begin MenuItem_dataset @ desc From NYPL Curating Menus Project
 # @in id 
-# @in menu_pg_id
-# @in price
-# @in high_price
-# @in dish_id
-# @in created_at
-# @in updated_at
-# @in xpos
-# @in ypos
+# @in menu_id
+# @in page_number
+# @in image_id
+# @in full_height
+# @in full_width
+# @in uuid
+
 # @out Cleaned_dataset
 
-# @begin Text_transform @desc replaced values
-# @in price 
-# @in high_price
+# @begin Manual_Edit @desc Apply to all identical cells
+# @in page_number 
+
+
 # @out Cleaned_dataset
 # @end Text_transform
 
-# @begin Split @desc by Field Length
-# @in created_at
-# @in updated_at
+# @begin Custom_Transform @desc To Lowercase
+# @in uuid
 
 # @out Cleaned_dataset
 # @end Split
 
-# @begin Text_transform_1 @desc value.length
-# @in xpos
-# @in ypos
+# @begin Common_Transforms @desc Trim leading and trailing spaces
+# @in id 
+# @in menu_id
+# @in page_number
+# @in image_id
+# @in full_height
+# @in full_width
+# @in uuid
+
 
 # @out Cleaned_dataset
 # @end Text_transform_1
 
-# @begin Text_transform_2 @desc converted to numeric
-# @in id 
-# @in menu_pg_id
-# @in dish_id
+# @begin Text_Edit  @desc Manually Edit
+# @in page_number
+
 # @out Cleaned_dataset
 # @end Text_transform_2
-# @end MenuItem
 
+
+# @end MenuItem
