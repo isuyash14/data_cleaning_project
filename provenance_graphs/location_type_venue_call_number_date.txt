@@ -1,0 +1,67 @@
+location_type_venue_call_number_date
+
+# @begin location_type_venue_call_number_date @desc  YW with a NYPL Menu datasets
+
+# @in location_type
+# @in venue
+# @in call_number
+# @in date
+# @out clean_location_type
+# @out clean_venue
+# @out clean_call_number
+# @out clean_date
+
+# @begin Trim,Removed_Whitespace,Uppercase
+
+# @in location_type
+# @in venue
+# @out location_type_1
+# @out venue_1
+
+# @end Trim,Removed_Whitespace,Uppercase
+
+# @begin converted_to_numbers_date_time
+
+# @in call_number
+# @in date
+# @out call_number_1
+# @out date_1
+
+# @end converted_to_numbers_date_time
+
+# @begin Updated_null_and_coverted_to_null_vice_versa
+
+# @in location_type_1
+# @in venue_1
+# @in call_number_1
+# @in date_1
+# @out location_type_2
+# @out venue_2
+# @out call_number_2
+# @out date_2
+
+# @end Updated_null_and_coverted_to_null_vice_versa
+
+# @begin Clustering_with_n_fingerprint_followed_by_n-grams
+
+# @in location_type_2
+# @in venue_2
+# @out venue_3
+# @out location_type_3
+
+# @end Clustering_with_n_fingerprint_followed_by_n-grams
+
+# @begin Updated_sentinal_values_to_null
+
+# @in location_type_3
+# @in venue_3
+# @in call_number_2
+# @in date_2
+# @out clean_location_type
+# @out clean_venue
+# @out clean_call_number
+# @out clean_date
+
+# @end Updated_sentinal_values_to_null
+
+# @end location_type_venue_call_number_date @desc  YW with a NYPL Menu datasets
