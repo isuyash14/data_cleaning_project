@@ -1,0 +1,41 @@
+Text transform on cells in column id using expression value.trim()
+	Text transform on cells in column id using expression value.replace(/\s+/,' ')
+	Text transform on cells in column id using expression value.toNumber()
+	Text transform on cells in column name using expression value.toUppercase()
+	Text transform on cells in column name using expression value.trim()
+	Text transform on cells in column name using expression value.replace(/\s+/,' ')
+	Text transform on cells in column name using expression grel:value.replace("-","").replace(".","").replace(",","").replace(",,","").replace("!","").replace("!!","").replace("?","").replace("??","").replace(":","").replace(";","").replace("(","").replace(")","").replace("\"","").replace("'","").replace("\\","").replace("/","")
+	Text transform on cells in column name using expression grel:value.replace("[","").replace("]","")
+	Text transform on cells in column name using expression grel:value.replace("$","").replace("*","").replace("<","").replace(">","")
+	Text transform on cells in column name using expression grel:value.replace("$","").replace("#","")
+	Text transform on cells in column name using expression grel:value.replace("+","")
+	Text transform on cells in column name using expression grel:value.replace("{","").replace("}","")
+	Text transform on cells in column name using expression grel:value.replace("&","and")
+	Text transform on cells in column name using expression grel:value.replace(" L "," LTR ")
+	Text transform on cells in column name using expression value.trim()
+	Text transform on cells in column name using expression value.toUppercase()
+	Mass edit cells in column name
+	Mass edit cells in column name
+	Mass edit cells in column name
+	Mass edit cells in column name
+	Mass edit cells in column name
+	Mass edit cells in column name
+	Mass edit cells in column name
+	Mass edit cells in column name
+	Mass edit cells in column name
+	Mass edit cells in column name
+	Mass edit cells in column name
+	Mass edit cells in column name
+	Mass edit cells in column name
+	Mass edit cells in column name
+	Text transform on cells in column menus_appeared using expression value.toNumber()
+	Text transform on cells in column times_appeared using expression value.toNumber()
+	Text transform on cells in column first_appeared using expression value.toNumber()
+	Text transform on cells in column last_appeared using expression value.toNumber()
+	Text transform on cells in column lowest_price using expression value.toNumber()
+	Text transform on cells in column highest_price using expression value.toNumber()
+	Mass edit cells in column first_appeared
+	Text transform on cells in column name using expression value.trim()
+	Text transform on cells in column name using expression value.replace(/\s+/,' ')
+	Text transform on cells in column menus_appeared using expression value.trim()
+	Mass edit cells in column last_appeared

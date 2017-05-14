@@ -1,0 +1,228 @@
+Text transform on cells in column uuid using expression value.trim()
+	Text transform on cells in column uuid using expression value.replace(/\s+/,' ')
+	Text transform on cells in column id using expression value.trim()
+	Text transform on cells in column id using expression value.replace(/\s+/,' ')
+	Text transform on cells in column menu_id using expression value.trim()
+	Text transform on cells in column menu_id using expression value.replace(/\s+/,' ')
+	Text transform on cells in column page_number using expression value.trim()
+	Text transform on cells in column page_number using expression value.replace(/\s+/,' ')
+	Text transform on cells in column image_id using expression value.trim()
+	Text transform on cells in column image_id using expression value.replace(/\s+/,' ')
+	Text transform on cells in column full_height using expression value.trim()
+	Text transform on cells in column full_height using expression value.replace(/\s+/,' ')
+	Text transform on cells in column uuid using expression value.trim()
+	Text transform on cells in column uuid using expression value.replace(/\s+/,' ')
+Edit single cell on row 51676, column page_number
+Edit single cell on row 51677, column page_number
+Edit single cell on row 51678, column page_number
+Edit single cell on row 51679, column page_number
+Edit single cell on row 51680, column page_number
+Edit single cell on row 51681, column page_number
+Edit single cell on row 51682, column page_number
+Edit single cell on row 51682, column page_number
+Edit single cell on row 51683, column page_number
+Edit single cell on row 51684, column page_number
+Edit single cell on row 51685, column page_number
+Edit single cell on row 51686, column page_number
+Edit single cell on row 51687, column page_number
+Edit single cell on row 51688, column page_number
+Edit single cell on row 51689, column page_number
+Edit single cell on row 51690, column page_number
+Edit single cell on row 51691, column page_number
+Edit single cell on row 51691, column page_number
+Edit single cell on row 51692, column page_number
+Edit single cell on row 51693, column page_number
+Edit single cell on row 51694, column page_number
+Edit single cell on row 51695, column page_number
+Edit single cell on row 51696, column page_number
+Edit single cell on row 51697, column page_number
+Edit single cell on row 51698, column page_number
+Edit single cell on row 52011, column page_number
+Edit single cell on row 52012, column page_number
+Edit single cell on row 52013, column page_number
+Edit single cell on row 52013, column page_number
+Edit single cell on row 52014, column page_number
+Edit single cell on row 52015, column page_number
+Edit single cell on row 52016, column page_number
+Edit single cell on row 52017, column page_number
+Edit single cell on row 52018, column page_number
+Edit single cell on row 52019, column page_number
+Edit single cell on row 52020, column page_number
+Edit single cell on row 52021, column page_number
+Edit single cell on row 52022, column page_number
+Edit single cell on row 52023, column page_number
+Edit single cell on row 52024, column page_number
+Edit single cell on row 52079, column page_number
+Edit single cell on row 52080, column page_number
+Edit single cell on row 52080, column page_number
+Edit single cell on row 52081, column page_number
+Edit single cell on row 52082, column page_number
+Edit single cell on row 52083, column page_number
+Edit single cell on row 52084, column page_number
+Edit single cell on row 52085, column page_number
+Edit single cell on row 52086, column page_number
+Edit single cell on row 52087, column page_number
+Edit single cell on row 52088, column page_number
+Edit single cell on row 52089, column page_number
+Edit single cell on row 52090, column page_number
+Edit single cell on row 52091, column page_number
+Edit single cell on row 52092, column page_number
+Edit single cell on row 53646, column page_number
+Edit single cell on row 53646, column page_number
+Edit single cell on row 53647, column page_number
+Edit single cell on row 53648, column page_number
+Edit single cell on row 53649, column page_number
+Edit single cell on row 53650, column page_number
+Edit single cell on row 53651, column page_number
+Edit single cell on row 53652, column page_number
+Edit single cell on row 51921, column page_number
+Edit single cell on row 51922, column page_number
+Edit single cell on row 51923, column page_number
+Edit single cell on row 51924, column page_number
+Edit single cell on row 51925, column page_number
+Edit single cell on row 51926, column page_number
+Edit single cell on row 51926, column page_number
+Edit single cell on row 51985, column page_number
+Edit single cell on row 51986, column page_number
+Edit single cell on row 51987, column page_number
+Edit single cell on row 51988, column page_number
+Edit single cell on row 51989, column page_number
+Edit single cell on row 51990, column page_number
+Edit single cell on row 34627, column page_number
+Edit single cell on row 34628, column page_number
+Edit single cell on row 34629, column page_number
+Edit single cell on row 34630, column page_number
+Edit single cell on row 34631, column page_number
+Edit single cell on row 51699, column page_number
+Edit single cell on row 51700, column page_number
+Edit single cell on row 51701, column page_number
+Edit single cell on row 51702, column page_number
+Edit single cell on row 51736, column page_number
+Edit single cell on row 51737, column page_number
+Edit single cell on row 51738, column page_number
+Edit single cell on row 51739, column page_number
+Edit single cell on row 51740, column page_number
+Edit single cell on row 51741, column page_number
+Edit single cell on row 51742, column page_number
+Edit single cell on row 51743, column page_number
+Edit single cell on row 51744, column page_number
+Edit single cell on row 51745, column page_number
+Edit single cell on row 51746, column page_number
+Edit single cell on row 51747, column page_number
+Edit single cell on row 51748, column page_number
+Edit single cell on row 51749, column page_number
+Edit single cell on row 51750, column page_number
+Edit single cell on row 51751, column page_number
+Edit single cell on row 51752, column page_number
+Edit single cell on row 51753, column page_number
+Edit single cell on row 51754, column page_number
+Edit single cell on row 51755, column page_number
+Edit single cell on row 51755, column page_number
+Edit single cell on row 51832, column page_number
+Edit single cell on row 51833, column page_number
+Edit single cell on row 51833, column page_number
+Edit single cell on row 51834, column page_number
+Edit single cell on row 51835, column page_number
+Edit single cell on row 51945, column page_number
+Edit single cell on row 51946, column page_number
+Edit single cell on row 51947, column page_number
+Edit single cell on row 51948, column page_number
+Edit single cell on row 51948, column page_number
+Edit single cell on row 51964, column page_number
+Edit single cell on row 51965, column page_number
+Edit single cell on row 51966, column page_number
+Edit single cell on row 51967, column page_number
+Edit single cell on row 52135, column page_number
+Edit single cell on row 52136, column page_number
+Edit single cell on row 52137, column page_number
+Edit single cell on row 52138, column page_number
+Edit single cell on row 34097, column page_number
+Edit single cell on row 34098, column page_number
+Edit single cell on row 34099, column page_number
+Edit single cell on row 34671, column page_number
+Edit single cell on row 34672, column page_number
+Edit single cell on row 34673, column page_number
+Edit single cell on row 35341, column page_number
+Edit single cell on row 35342, column page_number
+Edit single cell on row 35343, column page_number
+Edit single cell on row 37188, column page_number
+Edit single cell on row 37189, column page_number
+Edit single cell on row 37190, column page_number
+Edit single cell on row 38064, column page_number
+Edit single cell on row 38065, column page_number
+Edit single cell on row 38066, column page_number
+Edit single cell on row 51667, column page_number
+Edit single cell on row 51668, column page_number
+Edit single cell on row 51669, column page_number
+Edit single cell on row 51825, column page_number
+Edit single cell on row 51886, column page_number
+Edit single cell on row 51887, column page_number
+Edit single cell on row 51888, column page_number
+Edit single cell on row 51889, column page_number
+Edit single cell on row 51890, column page_number
+Edit single cell on row 51891, column page_number
+Edit single cell on row 51949, column page_number
+Edit single cell on row 51950, column page_number
+Edit single cell on row 51951, column page_number
+Edit single cell on row 51979, column page_number
+Edit single cell on row 51980, column page_number
+Edit single cell on row 51981, column page_number
+Edit single cell on row 52072, column page_number
+Edit single cell on row 52073, column page_number
+Edit single cell on row 52074, column page_number
+Edit single cell on row 52123, column page_number
+Edit single cell on row 52124, column page_number
+Edit single cell on row 52125, column page_number
+Edit single cell on row 53364, column page_number
+Edit single cell on row 53365, column page_number
+Edit single cell on row 53366, column page_number
+Edit single cell on row 34644, column page_number
+Edit single cell on row 34645, column page_number
+Edit single cell on row 34649, column page_number
+Edit single cell on row 34650, column page_number
+Edit single cell on row 34667, column page_number
+Edit single cell on row 34668, column page_number
+Edit single cell on row 34669, column page_number
+Edit single cell on row 34670, column page_number
+Edit single cell on row 37782, column page_number
+Edit single cell on row 37783, column page_number
+Edit single cell on row 46869, column page_number
+Edit single cell on row 46870, column page_number
+Edit single cell on row 51826, column page_number
+Edit single cell on row 51827, column page_number
+Edit single cell on row 51952, column page_number
+Edit single cell on row 51953, column page_number
+Edit single cell on row 51954, column page_number
+Edit single cell on row 51955, column page_number
+Edit single cell on row 51956, column page_number
+Edit single cell on row 51957, column page_number
+Edit single cell on row 51958, column page_number
+Edit single cell on row 51959, column page_number
+Edit single cell on row 51960, column page_number
+Edit single cell on row 51961, column page_number
+Edit single cell on row 51962, column page_number
+Edit single cell on row 51963, column page_number
+Edit single cell on row 52001, column page_number
+Edit single cell on row 52002, column page_number
+Edit single cell on row 52009, column page_number
+Edit single cell on row 52010, column page_number
+Edit single cell on row 54300, column page_number
+Edit single cell on row 54300, column page_number
+Edit single cell on row 54301, column page_number
+Edit single cell on row 54308, column page_number
+Edit single cell on row 54309, column page_number
+Edit single cell on row 54313, column page_number
+Edit single cell on row 54314, column page_number
+Edit single cell on row 54315, column page_number
+Edit single cell on row 54316, column page_number
+Edit single cell on row 54321, column page_number
+Edit single cell on row 54322, column page_number
+	Mass edit cells in column page_number
+	Mass edit cells in column page_number
+Edit single cell on row 34100, column page_number
+	Fill down cells in column page_number
+	Text transform on cells in column page_number using expression value.toNumber()
+	Fill down cells in column page_number
+	Mass edit cells in column page_number
+	Mass edit cells in column page_number
+	
