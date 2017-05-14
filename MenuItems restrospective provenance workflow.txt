@@ -1,0 +1,35 @@
+MenuItems restrospective provenance workflow
+# @begin MenuItem_dataset @ desc From NYPL Curating Menus Project
+# @in id
+# @in menu_pg_id
+# @in price
+# @in high_price
+# @in dish_id
+# @in created_at
+# @in updated_at
+# @in xpos
+# @in ypos
+# @out Cleaned_dataset
+# @begin Text_transform @desc replaced values
+# @in price
+# @in high_price
+# @out Cleaned_dataset
+# @end Text_transform
+# @begin Split @desc by Field Length
+# @in created_at
+# @in updated_at
+# @out Cleaned_dataset
+# @end Split
+# @begin Text_transform_1 @desc value.length
+# @in xpos
+# @in ypos
+# @out Cleaned_dataset
+# @end Text_transform_1
+# @begin Text_transform_2 @desc converted to numeric
+# @in id
+# @in menu_pg_id
+# @in dish_id
+# @out Cleaned_dataset
+# @end Text_transform_2
+# @end MenuItem
+
