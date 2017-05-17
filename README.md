@@ -1,11 +1,34 @@
 # data_cleaning_project
 
-This repository contains below files
-1. Cleaned data set Menu.csv file. This file contains the data after the cleaning procedure is performed. 
-2. SQL files
-  a) create_tbl_load_data.sql: table creation script and loading of data. 
-  b) queries.sql: This contains the sql queries, for checking the database intergrity constraints and some insights. 
-3. datalog_facts_queries_icv.dlv: this file contains the facts and rules for checking the dataprovenance. 
-4. Menus Dataset.docx: it contains the narratives for the operations applied for cleaning. 
-5. OpenRefine_hist_Menu.txt: it contains the JSON history and operations history performed on the dataset. 
-6. SQL_Datalog.docx : It contains the narrative for the SQL and datalog queries. 
+This repository contains below direcorties in the 
+data_cleaning_project/
+					 -uncleaned_dataset/	contains ucleaned dataset
+					 -cleaned_dataset/ 		contains cleaned dataset, openrefine history and narratives file for each dataset. 
+					 -provenance_graphs/    contains code for the provenance_graphs and images for the YesWorkflow.
+					 -sql_datalog/ 			contains sql and datalog files. 
+					 
+					 
+
+					 
+-uncleaned_dataset/
+				Uncleaned data set files before any cleaning operation is applied. 
+-cleaned_dataset/
+				+ Dish.csv			           : Cleaned Dish dataset after cleaning operation has been performed. 
+				+ Menu-cleaned.csv			   : Cleaned Menu dataset after cleaning operation has been performed. 
+				+ MenuItem.csv				   : Cleaned MenuItem dataset after cleaning operation has been performed. 
+				+ MenuPage.csv				   : Cleaned MenuPage dataset after cleaning operation has been performed. 
+				+ Menus Dataset.docx		   : Narrative file of the cleaning operation performed for Menu dataset. 	
+				+ OpenRefine_hist_Dish.txt	   : Openrefine history of operation for dish dataset. 
+				+ OpenRefine_hist_Menu.txt	   : Openrefine history of operation for Menu dataset. 
+				+ OpenRefine_hist_MenuItem.txt : Openrefine history of operation for MenuItem dataset. 
+				+ OpenRefine_hist_MenuPage.txt : Openrefine history of operation for MenuPage dataset. 	
+
+-provenance_graphs/ 
+				+ Contains images for the YesWorkflow files and the codes containing the same. 
+-sql_datalog/ 
+				+SQL_Datalog.docx				: Narrative file for the SQL and datalog operations.  
+				+create_tbl_load_data.sql		: Create table and load data script for the RDBMS schema created. 
+				+datalog_facts_queries_icv.dlv	: datalog facts created from operations manual and openrefine history. 
+												: It also contains queries and rules violation. 
+				+queries.sql					: SQL queries for the intergrity constraints and functional dependency. 
+												: Some additoinal sql queries for different insights about data as well. 
